@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "My All-Time Favorite Movies"
 ---
 
-##My All-Time Favorite Movies
-1. Airplane!
-2. School of Rock
-3. Napoleon Dynamite
-4. Scott Pilgrim vs. the World
+<div>
+    <h1>My All-Time Favorite Movies</h1>
+    <ol>
+        <li>Airplane!
+        <li>School of Rock
+        <li>Napoleon Dynamite
+        <li>Scott Pilgrim vs. the World
+    </ol>
+</div>
