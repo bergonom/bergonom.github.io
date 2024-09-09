@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My All-Time Favorite Movies"
+date: 2023-09-08
 ---
 
 <div>
@@ -8,6 +9,7 @@ title:  "My All-Time Favorite Movies"
         <li>Airplane!</li>
         <li>School of Rock</li>
         <li>Napoleon Dynamite</li>
+        <li>The Matrix</li>
         <li>Scott Pilgrim vs. the World</li>
     </ol>
 </div>
