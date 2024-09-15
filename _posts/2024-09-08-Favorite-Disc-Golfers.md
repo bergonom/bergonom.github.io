@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Current Favorite Disc Golfers"
-date: 2023-09-08
+date: 2024-09-08
 ---
 
 <div>
