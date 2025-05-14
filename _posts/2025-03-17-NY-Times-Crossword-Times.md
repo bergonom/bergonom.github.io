@@ -31,8 +31,8 @@ date: 2025-03-17
             </tr>
             <tr>
                 <td>Thursday</td>
-                <td>7:24</td>
-                <td>Apr 17, 2024</td>
+                <td>7:16</td>
+                <td>May 14, 2025</td>
             </tr>
             <tr>
                 <td>Friday</td>

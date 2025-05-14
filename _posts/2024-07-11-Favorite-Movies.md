@@ -12,6 +12,8 @@ date: 2024-09-08
         <li>Napoleon Dynamite</li>
         <li>The Matrix</li>
         <li>Scott Pilgrim vs. the World</li>
+        <li>Elf</li>
         <li>Office Space</li>
+        <li>Idiocracy</li>
     </ol>
 </div>
